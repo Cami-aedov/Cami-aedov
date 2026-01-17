@@ -4,7 +4,7 @@
 
 <a href="https://www.contadorvisitasgratis.com" title="contador de visitas com"><img src="https://counter1.optistats.ovh/private/contadorvisitasgratis.php?c=4h3txcmx66t9dgcymn4bjb65r4j6m74j" border="0" title="contador de visitas com" alt="contador de visitas com"></a>
 
-<img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img><br>
+<img alt="Hola" height="70px" width="70px" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img><br>
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me 🐰***
 Hello World!
 I’m Camila Aedo, Computer Engineer with solid experience in managing and developing websites using CMS platforms such as WordPress, Joomla, Shopify, and Mobirise.
