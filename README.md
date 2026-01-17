@@ -71,7 +71,6 @@ I am distinguished by my commitment to continuous learning, a practical approach
 
 <hr>
 <p align="center">
-   <br>
 Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/camila-aedo-venegas/) 
