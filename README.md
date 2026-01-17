@@ -72,7 +72,9 @@ I am distinguished by my commitment to continuous learning, a practical approach
 Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/camila-aedo-venegas//"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:aedov.camila@gmail.com)
+  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aedov.camila@gmail.com)
+
 <a target="_blank" href="https://github.com/Cami-aedov"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></img></a>
 <br>
 
