@@ -7,7 +7,7 @@ I’m Camila Aedo, Computer Engineer with solid experience in managing and devel
 I specialize in frontend web development, building responsive, modern, and optimized websites with technologies like HTML, CSS, JavaScript, Astro, and Tailwind CSS.
 I am distinguished by my commitment to continuous learning, a practical approach, and strong adaptability to new tools and technological trends, which enables me to deliver efficient and high-impact digital solutions
 
-* **I am interested in Software development, machine learning and Web Design and Marketing**
+* **I am interested in Software development, machine learning, Web Design and Digital Marketing**
 - 🌱 I’m currently learning ...
   - JavaScript
   - Astro
