@@ -75,11 +75,23 @@ I am distinguished by my commitment to continuous learning, a practical approach
 <hr>
 <div align="center">
 Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
-<br>
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/camila-aedo-venegas/) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aedov.camila@gmail.com)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cami-aedov)
+<br>
+<div align="center">
+  <a href="https://www.linkedin.com/in/sophienguyen113/" target="_blank"  rel="noopener noreferrer">
+    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="sophie-linkedin" />
+  </a>
+  <a href="mailto:sophiengocnguyen113@gmail.com" target="top" rel="noopener noreferrer">
+  <img src="https://img.icons8.com/bubbles/100/000000/gmail-new.png" alt="sophie-email"/>
+  </a>
+</div>
+
+<br>
+<div align="center">
+<a href="https://github.com/SophieNguyen113">
+<img src="https://wallpapercave.com/wp/wp10580805.jpg" width="200px" height="200px" alt="Sunflower">
+</a>
+
 </div>
 
 #### Thanks for visiting :heart:
