@@ -46,6 +46,11 @@ I am distinguished by my commitment to continuous learning, a practical approach
 <img src="https://skillicons.dev/icons?i=vscode">
 </span>
 
+<h4> Version Control </h4>
+<span>
+<img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
+</span>
+
 <h4> Repository Platform </h4>
 <span>
 <img src="https://skillicons.dev/icons?i=github">
