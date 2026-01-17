@@ -80,7 +80,8 @@ Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/Shah
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aedov.camila@gmail.com)
 
 <a target="_blank" href="https://github.com/Cami-aedov"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></img></a>
-
+<br>
+</p>
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
