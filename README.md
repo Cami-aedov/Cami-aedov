@@ -54,6 +54,9 @@ I am distinguished by my commitment to continuous learning, a practical approach
 <h4> Other Tools and Technologies </h4>
 
 
+<hr>
+<p align="center">
+   <br>
 Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 <!--
 **Cami-aedov/Cami-aedov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
