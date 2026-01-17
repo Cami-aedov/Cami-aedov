@@ -2,7 +2,10 @@
 <p align="left">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!&center=true&width=360&height=30">
 </p>
-
+<div style ="display:flex;" align="center">
+  <img src="https://drive.google.com/uc?id=1z7qDiym-ygiSM3F4u1xDKgxSeH0-qAfM" style="width:250px"/>
+</div>
+ 
 ![Header](https://github.com/Cami-aedov/Cami-aedov/blob/main/ProFile%20GitHub/Banner%20Para%20Linkedin%20Lic%20En%20Administración%20Minimalista%20Negro.png)
 
 <a href="https://www.contadorvisitasgratis.com" title="contador de visitas com"><img src="https://counter1.optistats.ovh/private/contadorvisitasgratis.php?c=4h3txcmx66t9dgcymn4bjb65r4j6m74j" border="0" title="contador de visitas com" alt="contador de visitas com"></a>
