@@ -2,8 +2,10 @@
 <a href="https://www.contadorvisitasgratis.com" title="contador de visitas com"><img src="https://counter1.optistats.ovh/private/contadorvisitasgratis.php?c=4h3txcmx66t9dgcymn4bjb65r4j6m74j" border="0" title="contador de visitas com" alt="contador de visitas com"></a>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me 🐰***
-
-
+Hello World!
+I’m Camila Aedo, Computer Engineer with solid experience in managing and developing websites using CMS platforms such as WordPress, Joomla, Shopify, and Mobirise.
+I specialize in frontend web development, building responsive, modern, and optimized websites with technologies like HTML, CSS, JavaScript, Astro, and Tailwind CSS.
+I am distinguished by my commitment to continuous learning, a practical approach, and strong adaptability to new tools and technological trends, which enables me to deliver efficient and high-impact digital solutions
 
 - 🌱 I’m currently learning ...
   - JavaScript
