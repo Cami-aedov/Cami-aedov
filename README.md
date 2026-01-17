@@ -58,6 +58,16 @@ I am distinguished by my commitment to continuous learning, a practical approach
 <p align="center">
    <br>
 Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+
+By: Kamira-Nobara - Last Edited on: 17/01/2026
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
 <!--
 **Cami-aedov/Cami-aedov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
