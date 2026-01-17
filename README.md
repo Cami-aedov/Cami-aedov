@@ -5,7 +5,7 @@
 <div style ="display:flex;" align="center">
   <img src="https://drive.google.com/uc?id=1z7qDiym-ygiSM3F4u1xDKgxSeH0-qAfM" style="width:250px"/>
 </div>
- 
+
 ![Header](https://github.com/Cami-aedov/Cami-aedov/blob/main/ProFile%20GitHub/Banner%20Para%20Linkedin%20Lic%20En%20Administración%20Minimalista%20Negro.png)
 
 <a href="https://www.contadorvisitasgratis.com" title="contador de visitas com"><img src="https://counter1.optistats.ovh/private/contadorvisitasgratis.php?c=4h3txcmx66t9dgcymn4bjb65r4j6m74j" border="0" title="contador de visitas com" alt="contador de visitas com"></a>
@@ -82,6 +82,7 @@ Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/Shah
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Cami-aedov)
 </div>
 
+#### Thanks for visiting :heart:
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 By: Kamira-Nobara - Last Edited on: 17/01/2026
