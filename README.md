@@ -25,7 +25,7 @@ I am distinguished by my commitment to continuous learning, a practical approach
 
 <h4> Web Modeling Structure </h4>
 <span>
-<img src="https://img.shields.io/badge/html-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> 
+<img src="https://skillicons.dev/icons?i=html"> 
 </span>
 
 <h4> Style Language </h4>
