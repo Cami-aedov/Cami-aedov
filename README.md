@@ -36,6 +36,11 @@ I am distinguished by my commitment to continuous learning, a practical approach
 <img src="https://skillicons.dev/icons?i=css"> 
 </span>
 
+<h4> Databases </h4>
+<span>
+<img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg">
+</span>
+
 <h4> IDEs </h4>
 <span>
 <img src="https://skillicons.dev/icons?i=vscode">
