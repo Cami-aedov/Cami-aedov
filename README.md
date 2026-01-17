@@ -16,6 +16,7 @@ I am distinguished by my commitment to continuous learning, a practical approach
   - Astro
   - PostgreSQL
 - 👯 I’m looking forward to collaborate on open source projects.
+- 📫 Reach out to me at: <a href="aedov.camila@gmail.com">aedov.camila@gmail.com</a>
 <!--
 **Cami-aedov/Cami-aedov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
