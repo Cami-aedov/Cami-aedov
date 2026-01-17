@@ -50,6 +50,8 @@ I am distinguished by my commitment to continuous learning, a practical approach
 <span>
 <img src="https://skillicons.dev/icons?i=windows">
 </span>
+
+<h4> Other Tools and Technologies </h4>
 <!--
 **Cami-aedov/Cami-aedov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
