@@ -9,7 +9,7 @@ I care about clean structure, accessibility, and performance, and I enjoy learni
 
 ---
 
-### 🧠 What I’m Working On
+### What I’m Working On
 
 🚧 **Personal Portfolio Website**  
 A responsive website to showcase my work, skills, and professional profile.
