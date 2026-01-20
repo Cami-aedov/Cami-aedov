@@ -2,45 +2,45 @@
 
 ### Frontend Web Developer | Computer Engineer
 
-I’m a Computer Engineer specialized in **frontend web development** and **CMS-based solutions**.  
-I build responsive, accessible, and performance-focused websites using modern web technologies.
+I’m a Computer Engineer focused on **frontend development** and **CMS-based web solutions**.  
+Currently building my **personal portfolio website** as my first featured project.
 
-💡 Strong experience with WordPress and other CMS platforms  
-🚀 Focused on clean UI, maintainable code, and continuous learning  
+I care about clean structure, accessibility, and performance, and I enjoy learning by building real products.
 
 ---
 
-### 🧩 About Me
+### 🧠 What I’m Working On
 
-- Frontend Developer with experience in **WordPress, Joomla, Shopify, and Mobirise**
-- Skilled in **HTML, CSS, JavaScript, Astro, and Tailwind CSS**
-- Interested in **Web Development, UI Design, and Digital Solutions**
-- Open to collaborating on **open source projects**
+🚧 **Personal Portfolio Website**  
+A responsive website to showcase my work, skills, and professional profile.
 
-📫 **Contact:** `aedov.camila@gmail.com`
+**Tech stack:**
+- HTML, CSS, JavaScript  
+- Astro  
+- Tailwind CSS  
+
+**Goals:**
+- Clean and accessible UI
+- Mobile-first design
+- Optimized performance
+- SEO-friendly structure
 
 ---
 
 ### 🛠 Tech Stack
 
-**Languages & Markup**  
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-
-**Frameworks & Tools**  
-<img src="https://skillicons.dev/icons?i=astro,tailwind" />
-
-**Databases**  
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
-
-**Version Control & IDE**  
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-**Operating System**  
-<img src="https://skillicons.dev/icons?i=windows" />
+<img src="https://skillicons.dev/icons?i=html,css,js,astro,tailwind,git,github,vscode" />
 
 ---
 
-### 🤝 Connect with Me
+### 🌱 Currently Learning
+- Advanced JavaScript
+- Astro best practices
+- PostgreSQL basics
+
+---
+
+### 🤝 Let’s Connect
 
 <a href="https://www.linkedin.com/in/camila-aedo-venegas/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -52,9 +52,8 @@ I build responsive, accessible, and performance-focused websites using modern we
 ---
 
 <p align="center">
-  Thanks for visiting 🤍
+  Building step by step 🚀
 </p>
-
 
 
 
